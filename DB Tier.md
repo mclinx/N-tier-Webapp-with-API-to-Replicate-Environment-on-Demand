@@ -109,7 +109,7 @@ Now, your DHCP server is configured and ready to allocate TCP/IP settings to the
 3. 
 
 
-Resources 
+**Resources**
 https://protechgurus.com/configure-domain-controller-in-windows-server-2016/
 https://protechgurus.com/configure-dhcp-server-in-windows-server-2016/
 https://gallery.technet.microsoft.com/Step-by-Step-Installation-fae6cf20/file/169948/1/Step%20by%20Step%20Installation%20of%20Windows%20Server%202016%20Domain%20Controller.pdf
@@ -121,18 +121,18 @@ https://www.youtube.com/watch?v=h9fmQ0crCsg&index=10&list=PLJcaPjxegjBVnEN8c6O8w
 https://www.youtube.com/watch?v=DrNwJraGfjQ&index=11&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN
 https://www.youtube.com/watch?v=amzSIpx9fvA&index=18&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN
 
-Install all these packages and create NAT
+Install all these packages and create NAT\
 
 http://funwithlinux.net/2014/04/join-ubuntu-14-04-to-active-directory-domain-using-realmd/
 https://serverfault.com/questions/598476/how-to-use-realmd-in-ubuntu-14-04-lts-to-join-an-active-directory-domain
 
-Nat 
+Nat \
 http://www.nairabytes.net/81-linux/418-how-to-set-up-a-nat-router-on-ubuntu-server-16-04
 http://nairabytes.net/81-linux/415-how-to-install-a-dhcp-server-in-ubuntu-server-16-04
 http://nairabytes.net/81-linux/413-ubuntu-server-16-how-to-properly-set-hostname-domain-name-and-fdqn
 
 https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-active-directory-authentication
-
+https://www.mssqltips.com/sqlservertip/5075/configure-sql-server-on-linux-to-use-windows-authentication/
 https://serverfault.com/questions/573160/sql-server-running-under-a-domain-account-cannot-register-its-spn
 
 ENABLE ACCOUNT IN AD to get SPN to work
