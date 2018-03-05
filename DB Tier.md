@@ -139,3 +139,10 @@ ENABLE ACCOUNT IN AD to get SPN to work
 
 edit /etc/hosts in windows
 
+
+https://vandewalle.me/connect-to-ms-sql-server-in-php-on-ubuntu-linux-16-04-lts/
+
+https://docs.microsoft.com/en-us/sql/connect/php/installation-tutorial-linux-mac
+https://docs.microsoft.com/en-us/sql/connect/php/pdo-exec
+http://php.net/manual/en/datetime.format.php
+http://php.net/manual/en/function.sleep.php
